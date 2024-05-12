@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    color:rgb(255, 255, 255);
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 50px;
+}
+b{
+    color: cornflowerblue;
+}
+
+.v {
+    margin-top: 20px;
+}
+
+.p {
+    margin-left: 20px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.first {
+    background: url("https://data.kaktus.media/image/gif/2021-07-30_13-03-48_994050.gif") no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
+
+.second {
+    background-color: rgb(121, 121, 68);
+    padding: 20px;
+}
+
+.second p {
+    color: black;
+    text-align: justify;
+}
+
+.second img {
+    display: block;
+    margin: 0 auto 0 auto;
+}
+
+.third {
+    display: flex;
+}
+
+.container-description {
+    color: white;
+    margin-left: 20px;
+}
+iframe {
+    display: block;
+    margin: 0 auto;
+}
+
+a {
+    margin: 20px;
+}
